@@ -33,7 +33,6 @@ This project requires *Python 3* and the *Tkinter* library to be installed on yo
 
 If you encounter an error while building a wheel during the process, you may need to install the required packages which are:
 
-```pip install tk```
 
 ```pip install pygame```
 
