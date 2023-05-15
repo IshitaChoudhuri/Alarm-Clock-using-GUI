@@ -48,7 +48,6 @@ If you find any bugs or have suggestions for improvements, please feel free to c
 Please adhere to this project's `code of conduct`.
 
 
-
 ## Disclaimer
 The Python project on creating an alarm clock using a GUI is intended for educational purposes only. The code and instructions provided are not guaranteed to be error-free, and the user is responsible for ensuring the correctness and safety of their implementation.
 
@@ -58,4 +57,9 @@ By using this project, the user agrees to assume all risks associated with its u
 This project is used by the following companies:
 
 - Code Clause
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at ishitachoudhuri3@gmail.com
 
